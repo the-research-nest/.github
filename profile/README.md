@@ -1,5 +1,3 @@
-![image](https://github.com/the-research-nest/.github/assets/32733783/f45dcd2c-4e72-47c7-a593-64f5ab48890e)
-
 # 🎉 Welcome to The Research Nest (TRN) on GitHub! 🎉
 
 We began TRN as a beacon of STEM research and education, aiming to empower and enlighten. While that flame still burns bright, our vision has broadened. 🌍
