@@ -1,4 +1,4 @@
-![image](https://github.com/the-research-nest/.github/assets/32733783/f45dcd2c-4e72-47c7-a593-64f5ab48890e)
+<center>![image](https://github.com/the-research-nest/.github/assets/32733783/f45dcd2c-4e72-47c7-a593-64f5ab48890e)</center>
 
 # 🎉 Welcome to The Research Nest (TRN) on GitHub! 🎉
 
