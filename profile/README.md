@@ -12,4 +12,4 @@ Find out how and why you might want to [write with us](https://medium.com/the-re
 
 ---
 
-*For any questions or inquiries, feel free to raise an issue or reach out to us directly at the.research.nest@gmail.com*
+For any questions or inquiries, feel free to raise an issue or reach out to us directly at the.research.nest@gmail.com
