@@ -12,32 +12,7 @@ We're now building towards a world where collaboration knows no bounds, where re
 
 Are you bursting with ideas? Whether they're groundbreaking, fun, or just out of the box, share them [here](https://github.com/orgs/the-research-nest/discussions). We're building a community, and every thought counts!
 
-## 🚀 Expanding Coverage
-
-More content. More voices. More structure. We're entering a renaissance era at TRN. Here’s a sneak peek into what awaits:
-
-📝 **Tutorials**  
-Our bedrock. From setting up cutting-edge tools to real-time data streams, we're your trusty manual.
-
-💭 **News & Commentary**  
-Stay updated and informed. We aim to offer fresh perspectives on the latest tech and research news.
-
-🎙️ **Interviews**  
-From tech giants to the industry's unsung heroes, expect stories that inspire and resonate.
-
-🔑 **Explained**  
-Complex tech topics? We got them simplified. Sometimes, even better than AI. 😉 
-
-🏫 **Bootcamps**  
-Get ready for hands-on learning that's flexible, intuitive, and real-world ready. Every bootcamp is a treasure trove of knowledge and projects, all documented here on GitHub. Let's build, learn, and showcase together!
-
-Interested in making your mark on these sections? Find out how and why you might want to [write with us](https://medium.com/the-research-nest/trn-guest-blogging-2817c4ca31d3).
-
----
-
-Once again, welcome to The Research Nest. Together, let's research, write, and revolutionize!
-
-🚀 **Join us on this adventure!** 🚀
+Find out how and why you might want to [write with us](https://medium.com/the-research-nest/trn-guest-blogging-2817c4ca31d3).
 
 ---
 
