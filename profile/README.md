@@ -2,13 +2,9 @@
 
 # 🎉 Welcome to The Research Nest (TRN) on GitHub! 🎉
 
-Exciting times are ahead of us. Want to know what's cooking at The Research Nest? Let's dive in!
-
-## 🚀 Mission
-
 We began TRN as a beacon of STEM research and education, aiming to empower and enlighten. While that flame still burns bright, our vision has broadened. 🌍
 
-We're now building towards a world where collaboration knows no bounds, where research knows no borders, and where publishing knows no gatekeepers. If you're driven by curiosity and the thrill of discovery, you've found your nest.
+We're now building towards a world where collaboration knows no bounds, where research knows no borders, and where publishing knows no gatekeepers. If you're driven by curiosity and the thrill of discovery, you've found your nest. Read more at [TRN 2.0](https://medium.com/the-research-nest/introducing-the-research-nest-2-0-a73f2d725343)
 
 Are you bursting with ideas? Whether they're groundbreaking, fun, or just out of the box, share them [here](https://github.com/orgs/the-research-nest/discussions). We're building a community, and every thought counts!
 
