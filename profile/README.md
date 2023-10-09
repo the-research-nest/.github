@@ -41,4 +41,4 @@ Once again, welcome to The Research Nest. Together, let's research, write, and r
 
 ---
 
-*For any questions or inquiries, feel free to raise an issue or reach out to us directly.*
+*For any questions or inquiries, feel free to raise an issue or reach out to us directly at the.research.nest@gmail.com*
